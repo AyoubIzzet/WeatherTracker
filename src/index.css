@@ -1,0 +1,164 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.header{
+  font-family: "poppins";
+  font-size: 19px;
+  color: black;
+  background-color: white;
+  padding: 0.2em;
+  text-align: center;
+}
+
+.locationForm{
+  background-color: #046dc4;
+  width: 600px;
+  margin: auto;
+  margin-top: 50px;
+  border-radius: 25px;
+  padding-top: 70px;
+  padding-bottom: 40px;
+ 
+}
+
+
+
+.locationHeading{
+
+  text-align: center;
+  position: relative;
+  font-family: "poppins";
+  font-size: 2em;
+  color: white;
+
+ 
+}
+
+.dailyWeather{
+  width: 45%;
+  background-color:  #046dc4;
+  border-radius: 25px;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  padding-left: 2em;
+
+  color: white;
+  font-family: "poppins";
+
+
+  
+}
+
+.humidity{
+  
+  font-family: "poppins";
+  color: white;
+  border-radius: 25px;
+  padding: 55px;
+  width: 50%;
+  margin-top: -25px;
+}
+
+
+
+
+.locationEntery{
+  
+  width: 75%;
+  text-align: center;
+  margin: auto;
+  display: block;
+  
+  
+  padding: .5em;
+  border-radius: .4em;
+  border: none;
+
+  /*background-image: linear-gradient(45deg, #aed8f5, #b1c21b);*/
+  font-family: "poppins";
+  font-size: 1.1em;
+  color: black;
+  outline: none;
+  margin-top: -75px;
+
+}
+
+.container{
+  margin-top: 50px;
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
+  place-content: space-between;
+  width: 600px;
+  background-color: #1e1d1f;
+  border-radius: 25px;
+}
+
+
+.submitButton{
+  width: 50%;
+  text-align: center;
+  margin: auto;
+  display: block;
+  
+  padding: .4em;
+  border-radius: 3em;
+  border: solid gray;
+  border-width: 1.5px;
+
+  background-image: linear-gradient(45deg, #f1cad6, #d31818);
+  font-family: "poppins";
+  font-size: 1.1em;
+  color: white;
+  outline: none;
+  margin-top: 50px;
+
+}
+
+
+
+.myForm{
+  padding-top: 55px;
+}
+
+span{
+  color: #007AF3; 
+}
+
+body{
+  margin: 0;
+  background-color: #F2F2F2;
+  
+}
+
+label{
+  font-size: 1.2em;
+  margin-bottom: .5em; 
+  
+}
+
+table{
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: uppercase;
+  font-size: 16px;
+  display: table;
+  width: 125%;
+  table-layout: fixed;
+  margin-left: -35px;
+  
+  
+}
+
+.nextWeek{
+  margin-top: 20px;
+  margin-bottom: -40px;
+  margin-left: -35px;
+  display: flex;
+  place-content: space-between;
+  width: 125%;
+
+}
+
+
